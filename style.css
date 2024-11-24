@@ -261,7 +261,6 @@ footer{
 
     .home .c button {
         margin-left: 0;
-        width: 20%;
     }
 
     .home .img img {
@@ -313,12 +312,12 @@ footer{
 
     .home .c h1 {
         font-size: 36px;
-        margin-top: 20%;
+        margin-top: 23%;
     }
 
     .home .c h3 {
         font-size: 24px;
-        margin-left: -10%;
+        margin-left: 10%;
     }
 
     .home .c button {
@@ -391,51 +390,3 @@ footer{
     }
 }
 
-@media (max-width: 480px) {
-    header{
-        flex-direction: column;
-        height: 14%;
-    }
-    .navbar li{
-        margin-left: 4%;
-    }
-    .home{
-        grid-template-columns: 1fr;
-        row-gap: 30px; 
-        margin-top: 0; 
-    }
-
-    .home .c h1 {
-        font-size: 28px;
-    }
-
-    .home .c h3 {
-        font-size: 20px;
-    }
-
-    .home .c button {
-        font-size: 12px;
-    }
-
-    .home .img img {
-        width: 120px;
-        height: 120px;
-        margin-left: 50%;
-    }
-
-    .about h2 {
-        font-size: 30px;
-    }
-
-    .project h2 {
-        font-size: 30px;
-    }
-
-    .skills h2 {
-        font-size: 30px;
-    }
-
-    footer {
-        font-size: 14px;
-    }
-}
