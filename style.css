@@ -253,13 +253,13 @@ footer{
     }
     .home .c h3 {
         font-size: 35px; /* Smaller font size for mobile */
-        margin-left: 25%; /* Remove left margin for better alignment on small screens */
+        margin-left: 15%; /* Remove left margin for better alignment on small screens */
         text-align: center; /* Center the text on small screens */
         margin-top: 10px; /* Add some space at the top for better readability */
     }
 
     .home .c button{
-        margin-left: 9%;
+        margin-left: 15%;
     }
     .home .img img{
         margin-top: 2%;
