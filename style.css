@@ -249,17 +249,15 @@ footer{
         margin-top: 11%;
         line-height: normal;
         margin-left: -1.5%;
-        font-size: 40px;
+        font-size: 35px;
     }
-    .home .c h3 {
-        font-size: 35px; /* Smaller font size for mobile */
-        margin-left: 0; /* Remove left margin for better alignment on small screens */
-        text-align: center; /* Center the text on small screens */
-        margin-top: 10px; /* Add some space at the top for better readability */
+    .home .c h3{
+        margin-top: 3%;
+        font-size: 28px;
+        margin-left: -0%;
     }
-
     .home .c button{
-        margin-left: 15%;
+        margin-left: 7%;
     }
     .home .img img{
         margin-top: 2%;
