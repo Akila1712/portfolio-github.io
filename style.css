@@ -260,6 +260,7 @@ footer{
 
     .home .c button{
         margin-left: 7%;
+        align-items:center;
     }
     .home .img img{
         margin-top: 2%;
